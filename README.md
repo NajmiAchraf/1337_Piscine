@@ -25,9 +25,9 @@ Cette expérience est vraiment géniale et j'invite quiconque est intéressé pa
 |	[C Piscine C 06](./Cursus%20C%20Piscine/C%2006)	|	C	|	100 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20C%2006)](https://github.com/JaeSeoKim/badge42) |	10-07-2021	|	[fr subject C 06](./Subjects/fr.subject.C.06.pdf)	| [Testing C 06](./Tests/Testing%20C%2006) |
 |	[C Piscine C 07](./Cursus%20C%20Piscine/C%2007)	|	C	|	100 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20C%2007)](https://github.com/JaeSeoKim/badge42) |	12-07-2021	|	[fr subject C 07](./Subjects/fr.subject.C.07.pdf)	| [Testing C 07](./Tests/Testing%20C%2007) |
 |	[C Piscine C 08](./Cursus%20C%20Piscine/C%2008)	|	C	|	100 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20C%2008)](https://github.com/JaeSeoKim/badge42) |	16-07-2021	|	[fr subject C 08](./Subjects/fr.subject.C.08.pdf)	| [Testing C 08](./Tests/Testing%20C%2008) |
-|	C Piscine Exam 00	|	C	|	XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2000)](https://github.com/JaeSeoKim/badge42) |	25-06-2021	|		|		|
-|	C Piscine Exam 01	|	C	|	XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2001)](https://github.com/JaeSeoKim/badge42) |	02-07-2021	|		|		|
-|	C Piscine Exam 02	|	C	|	XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2002)](https://github.com/JaeSeoKim/badge42) |	09-07-2021	|		|		|
-|	C Piscine Final Exam	|	C	|	XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Final%20Exam)](https://github.com/JaeSeoKim/badge42)	|	16-07-2021	|		| [Testing](./Tests/Testing) |
+|	C Piscine Exam 00	|	C	|	225 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2000)](https://github.com/JaeSeoKim/badge42) |	25-06-2021	|		|		|
+|	C Piscine Exam 01	|	C	|	225 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2001)](https://github.com/JaeSeoKim/badge42) |	02-07-2021	|		|		|
+|	C Piscine Exam 02	|	C	|	225 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Exam%2002)](https://github.com/JaeSeoKim/badge42) |	09-07-2021	|		|		|
+|	C Piscine Final Exam	|	C	|	375 XP	|	[![anajmi's 42 netwhat Score](https://badge42.herokuapp.com/api/project/anajmi/C%20Piscine%20Final%20Exam)](https://github.com/JaeSeoKim/badge42)	|	16-07-2021	|		| [Testing](./Tests/Testing) |
 
 NB: Si tu es piscineux, ne copie/colle pas mon code, tu risquerais un petit -42 en correction 😉.
